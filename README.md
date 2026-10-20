@@ -1,24 +1,49 @@
-# 💫 About Me:
-Ingeniero de Software y Desarrollador con más de 6 años de experiencia en la desarrollo, soporte y optimización de aplicaciones web en sectores como salud, telecomunicaciones y autoservicio en grifos. Amplio conocimiento en Java, Spring Boot, PHP, Laravel, CodeIgniter, JavaScript (ES5/ES6), Node.js y Python. Experiencia en bases de datos SQL (MySQL, SQL Server, Oracle, PostgreSQL) y NoSQL (MongoDB), así como en la administración de servidores Linux y entornos cloud (AWS y Azure). Dominio de metodologías agiles (Scrum), control de versiones con Git y gestión de tareas con Jira y Trello. Habilidad para el análisis, integración y automatización de procesos, asegurando eficiencia y escalabilidad en los sistemas.
+# Hi, I'm Emerson 👋
 
+**Software Engineer · Machine Learning & Generative AI** — Porto Alegre, Brazil 🇧🇷 · from Peru 🇵🇪
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-herrera-tolentino/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emersonheto@gmail.com) 
+Software Engineer with 8+ years of experience, specialized in Machine Learning and Generative AI. I design and ship
+production-ready GenAI systems — enterprise chatbots, Retrieval-Augmented Generation (RAG) platforms, multimodal
+document ingestion and agentic AI — on top of a solid background in scalable architecture, microservices and cloud.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emersonheto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emersonheto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonheto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🏦 **Now:** Analyst Programmer II · Full Stack AI Engineer at **Canvia**, building a multi-tenant RAG platform that serves
+  several applications of the **Central Reserve Bank of Peru (BCRP)**, including the assistant live on its Research Portal.
+- 🎓 **Studying:** special student at the **Graduate Program in Computer Science (PPGC) – UFRGS**, applying to the Master's program.
+- 📄 **Research:** co-author of *"Benchmark of Multimodal Vision-Language Models for Damage Detection"* — LatinX in CV Workshop @ **CVPR 2026**.
+- 🏅 **AI Engineer Specialization** — Data Science Research Perú, Diploma of Excellence (19/20).
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emersonheto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ⭐ Featured projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emersonheto&limit=5&theme=merko&combine_all_yearly_contributions=true)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [certilab-agentic-rag](https://github.com/emersonheto/certilab-agentic-rag) | Agentic RAG over calibration certificates: structured + semantic search, cited sources, access control | LangGraph · FastAPI · Qdrant · OpenAI |
+| [certilab-adaptive-rag](https://github.com/emersonheto/certilab-adaptive-rag) | Adaptive RAG graph with two self-correction loops over 3,848 indexed vectors | LangGraph · OpenAI · Tavily · Qdrant |
+| [damage_dataset_fewshot_vlms](https://github.com/emersonheto/damage_dataset_fewshot_vlms) | Experiments behind our LXCV @ CVPR 2026 paper (CLIP, SigLIP, SigLIP2, FuseLIP for disaster damage detection) | Python · PyTorch |
+| [ecommerce-microservices](https://github.com/emersonheto/ecommerce-microservices) | E-commerce on microservices: API gateway, auth, products, orders, payments, notifications, monitoring | TypeScript · Node.js |
+| [api-transcription](https://github.com/emersonheto/api-transcription) | Whisper transcription API that returns subtitle-ready segments | FastAPI · Whisper · Docker |
+| [laravel-posts-api](https://github.com/emersonheto/laravel-posts-api) · [django-posts-api](https://github.com/emersonheto/django-posts-api) · [nextjs-posts-client](https://github.com/emersonheto/nextjs-posts-client) | The same REST API in Laravel and Django over a shared MySQL database, with a Next.js client | PHP · Python · TypeScript |
 
----
-[![](https://visitcount.itsvg.in/api?id=emersonheto&icon=0&color=4)](https://visitcount.itsvg.in)
+Private work I can walk through in an interview: a certification platform for an industrial calibration company
+(Laravel + Filament, QR validation, 300+ certificates issued), a self-hosted meeting assistant with on-device
+transcription, and an agent factory that runs issues unattended on my own VPS.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤖 How I work: AI-assisted development
+
+I work daily with coding agents (Claude Code, Codex, Pi) on **Gentle Shell** and **Gentle AI**, following
+**ODD (Organic Driven Development)**: explore before changing, subagents to implement and verify, TDD and risk-based
+review before every commit — with persistent memory in **Engram** and MCP servers wired to real environments.
+
+## 🧰 Tech stack
+
+**GenAI & ML:** RAG · LangChain · LangGraph · OpenAI API · MCP · pgvector · Pinecone · Chroma · Qdrant · Oracle 23ai · PyTorch · Scikit-Learn
+**Backend:** Python (FastAPI) · Java (Spring Boot) · C# (.NET) · Node.js · PHP (Laravel)
+**Frontend:** Angular · React · Next.js · Vue.js · Tailwind CSS
+**Data:** PostgreSQL · Oracle · SQL Server · MySQL · MongoDB · Redis
+**Cloud & DevOps:** AWS · Azure · Docker · Kubernetes · GitHub Actions · Dokploy · Linux
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emerson--herrera--tolentino-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-herrera-tolentino/)
+[![Email](https://img.shields.io/badge/Email-emersonheto%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:emersonheto@gmail.com)
+
+🇪🇸 Español nativo · 🇧🇷 Português B2 · 🇺🇸 English (intermediate, advanced technical)
