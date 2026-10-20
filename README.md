@@ -43,6 +43,7 @@ review before every commit — with persistent memory in **Engram** and MCP serv
 
 ## 📫 Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.certilab.app-1F4E5C?logo=googlechrome&logoColor=white)](https://portfolio.certilab.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emerson--herrera--tolentino-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-herrera-tolentino/)
 [![Email](https://img.shields.io/badge/Email-emersonheto%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:emersonheto@gmail.com)
 
